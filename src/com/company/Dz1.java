@@ -19,6 +19,7 @@ public class Dz1 {
         System.out.println(proverka3(-5));
         privetstvie("Илья");
         god_proverka(1024);
+        int newParametr = 10;
 
     }
 
